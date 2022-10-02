@@ -1,0 +1,86 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.nav{
+	width: 100%;
+	height: 40px;
+	background-color: black;
+}
+.nav ul{
+	list-style: none;
+}
+.nav ul li{
+	display: inline-block;
+	color: white;
+	font-size: 25px;
+	padding: 5px;
+	margin: 5px;
+}
+.nav ul a:hover{
+	color: RGB(255,136,25);
+}
+.nav ul a{
+	text-decoration: none;
+	color: white;
+}
+
+
+h1{
+	font-size: 55px;
+	color: black;
+	font-family: Pacifico,cursive;
+}
+body{
+	background-color: RGB(52,52,52);
+}
+.logo{
+	width: 100%;
+	height: 200px;
+	border-bottom: solid 1px grey;
+}
+.logo img{
+	width: auto;
+	height: 200px;
+	display: inline-block;
+	padding: 0px;
+}
+.menu ul li{
+	display: inline-block;
+	color: White;
+	padding: 30px;
+}
+.img{
+	width: 100%;
+	height: 800px;
+	background-image: URL(Imagenes/Imagen27.jpg);
+	background-size: cover;
+}
+.cuadro{
+	width: 100%;
+	height: 100%;
+	background-color: RGBA(0,0,0,0.10)
+}
+.img h1{
+	color: white;
+	text-align: center;
+	font-size: 100px;
+}
+.img ul li{
+	display: inline-block;
+	color: white;
+	font-size: 40px;
+	padding: 8px;
+}
+#sb{
+	color: RGB(255,136,25);
+}
+#sb1{
+	color: red;
+}
+.menu ul a{
+	text-decoration: none;
+	color: white;
+}
+
+
